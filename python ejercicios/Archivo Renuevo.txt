@@ -1,0 +1,6 @@
+probando escribir en texto en archivo...Hola Emilio
+, Antonio
+, Ricardo
+, Jose
+, Adrian
+, 

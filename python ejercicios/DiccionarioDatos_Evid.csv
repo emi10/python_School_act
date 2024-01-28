@@ -1,0 +1,123 @@
+Variable,Descripción,Respuesta,Valor
+,,,
+No.,Número de visitas realizadas,-,-
+Mes,Mes de realización de la visita,-,-
+OOAD,Órgano de Operación Administrativa Desconcentrada,-,-
+Localidad ,Lugar del OOAD en la cual se encuentra ubicada la guardería,-,-
+Esquema,,-,-
+,C= En el Campo,-,-
+,E= Empresarial,,
+,G= Ordinario,-,-
+,M= Madres IMSS,-,-
+,R= Reversión de Cuotas,-,-
+,U= Vecinal Comunitario Único,-,-
+,Y= Guardería Integradora,-,-
+Nœmero,Número asignado a la guardería,-,-
+Nombre,Nombre asignado a la guardería,-,-
+1,"¿A la entrada de la guardería se observa la presencia de un vigilante y éste solicita a todas las personas que ingresan a ésta, que se identifiquen y registren?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+2,"¿Diariamente les solicitan a ustedes o a las personas autorizadas registrar la entrada o salida a través del dispositivo de huella  dactilar  o de código de barras y verifican que la  fotografía que aparece en el SIAG corresponde al trabajador usuario  o persona autorizada, y en caso de que no funcionen les solicitan el registro en la Bitácora manual?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+3,¿El reporte de “Información sobre la atención de los Niños” se encuentra disponible para su consulta diaria y a la vista en el vestíbulo?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+4,¿Pudieron ver las charolas expuestas en el vestíbulo con muestras de los alimentos del día?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+5,¿Se encuentra en el vestíbulo el formato “Relación de niños a los que les corresponde aplicación de vacuna” del mes vigente?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+6,"¿Se encuentra en el vestíbulo la relación mensual actualizada para la medición de peso, talla y perímetro cefálico, con las mediciones que se han realizado en el mes vigente?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+7,¿Percibieron si el trato es el mismo para todos los niños/niñas?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+8,¿Observaron que los niños/niñas en todo momento se encontraban acompañados por personal de la guardería?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+9,¿Durante el recorrido pudieron observar si los niños/niñas de alguna sala se encontraban efectuando alguna actividad física?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+10,¿Observaron si el lavado de manos a los niños/niñas es frecuente y empleando la técnica de la OMS?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+11,¿Observaron si el personal de pedagogía utiliza botas quirúrgicas cuando se encuentra en el área de gateo con los niños/niñas? ,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+12,"De acuerdo con su apreciación ¿Consideran que el material didáctico de cada sala visitada es variado, suficiente, se encuentra limpio y en buenas condiciones?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+13,¿Observaron si el trato que brinda el personal hacia los niños/niñas es cercano y cariñoso? ,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+14,¿Pudieron identificar si hay algún lugar o mobiliario dentro de la unidad destinado a la lactancia materna?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+15,¿En el servicio de alimentación el personal utiliza cubre boca y cubre pelo?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+16,"¿Ustedes dirían que el área de la cocina, mobiliario y equipo se encuentran limpios y en buenas condiciones?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+17,"¿Durante su recorrido se observa que las charolas que se entregan durante el tiempo de alimentación a los niños/niñas (desayuno, comida, merienda) cuentan con los siguientes grupos de alimentos:
+
+Grupo 1: Leche y derivados. (queso, yogurt)
+Grupo 2: Carnes (res, pollo, cerdo), atún y huevos. 
+Grupo 3: Leguminosas (lentejas, frijol, garbanzo) *No obligatorio
+Grupo 4: Verduras y frutas 
+Grupo 5: Cereales (papa, bolillo integral, pasta integral, tortilla)?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+18,"¿Durante su recorrido identificaron que el “laboratorio de leches” es un área exclusiva para la preparación de fórmulas lácteas e hidrataciones (agua simple), independiente del área de preparación de alimentos, y ésta se encuentra bien señalada e identificada?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+19,"¿Al momento de la visita pudieron presenciar a la persona Responsable de fomento de la salud efectuando su recorrido de saneamiento ambiental en las áreas de la guardería, o durante la ministración de alimentos?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+20,"¿El personal realiza la higiene de sus manos con agua y jabón o gel, entre la revisión de un niño u otro? ",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+21,¿La persona Responsable de fomento de la salud se encuentra capacitada en Primeros Auxilios?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+22,¿Les mostraron el Programa Interno de Protección Civil de la guardería y su fecha de emisión tiene una antigüedad menor a un año?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+23,"¿Les mostraron certificados o constancias de al menos el 60% del personal capacitado en materia de protección civil (uso de extintores, control de incendios procedimientos de evacuación o sismo)?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+24,"En caso de haber escaleras en la guardería, ¿éstas cuentan con cintas u otro material anti-derrapante? 
+
+Nota: Si en la guardería no hay escalera marque “SI”. ",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+25,¿La guardería cuenta con una o más lámparas de iluminación de emergencia que se encienden cuando se suspende el suministro de energía eléctrica?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+26,"¿Las salas de atención, de usos múltiples y pasillos cerrados de la guardería, cuentan con detectores de humo?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+27,¿La cocina y el laboratorio de leches cuentan con detectores de calor y gas?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+28,"¿Los extintores de la Guardería están ubicados en lugares visibles y se encuentran bien señalizados, fácilmente ubicables y debidamente recargados?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+29,¿Todas las tomas de corriente eléctrica de la guardería se observan debidamente utilizadas y sus enchufes sin sobre cargas?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+30,¿La guardería cuenta con botiquín de primeros auxilios ?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+31,¿Existe al menos una salida de emergencia independiente de la puerta principal de acceso?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+32,¿La puerta de salida de emergencia y las rutas de evacuación se encuentran libres de obstáculos?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+33,"¿Las puertas de emergencia cuentan con las siguientes características?:
+
+-	Todas funcionan correctamente, son de fácil apertura y se encuentran sin llave ni candado.
+-	Cuentan con una barra de pánico que permite abrirla desde el interior mediante una operación de simple empuje al primer intento. 
+-	La puerta debe abrir exclusivamente en el sentido de la ruta de evacuación; es decir, hacia el exterior del inmueble. 
+-	La puerta cuenta con un sensor de apertura enlazado y debidamente cableado al sistema de alarma. 
+- 	Al abrirlas se activa la alarma en forma automática.
+-	La puerta de la salida de emergencia no debe ser corrediza o giratoria.
+-	La puerta de emergencia debe contar con iluminación de emergencia al interior del edificio.",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+34,"¿Al realizarse el simulacro de evacuación, la guardería fue evacuada en 3 minutos o menos? ",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+35,"¿Sabían ustedes que en todas las guarderías del IMSS se recibe a niños/niñas con discapacidad, siempre que sus condiciones de salud lo permitan?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+36,"Pudieron observar que la guardería cuenta con los elementos necesarios para brindar atención a niños/niñas con discapacidad, tales como: 
+
+A.	 Las rutas de entrada y salida son accesibles. 
+B.	Los espacios de las puertas permiten el ingreso con silla de ruedas.
+C.	Se cuenta con señalizaciones para que las personas con discapacidad puedan identificar rutas de acceso, seguridad, prevención e información.
+D.	Las rampas cuentan con pasamanos y señalamientos.
+E.	El sistema de alarma de emergencia es a base de señalamientos audibles, visibles, con sonido intermitente, y con lámpara de destellos.
+F.	Las puertas y salidas de emergencia cuentan con abatimientos de adentro hacia afuera. 
+G.	Los letreros y gráficos visuales de señalización están libres de obstáculos que impidan su visualización, libres de reflejos y sombras, de tamaño adecuado, cortos y sencillos de entender.",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+37,"¿A simple vista ustedes consideran que el mobiliario, equipo y materiales de la guardería están limpios y en buenas condiciones?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+38,¿Ustedes consideran que en general las instalaciones de la guardería se encuentran en buen estado de mantenimiento y limpieza?,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+39,"¿La Directora de la guardería fomenta la preservación del medio ambiente a través de: ¿la separación de la basura, optimización del uso del agua y ahorro de energía?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+Puntos máximos,Total de puntos que puede alcanzar una guardería en una visita (39),-,-
+Puntos alcanzados,Total de puntos reales alcanzados en una visita,-,-
+%,"Porcentaje de cumplimiento de los puntos marcados en la ""Guía para la visita y registro de observaciones"", de acuerdo con lo observado por los padres de familia durante la visita.",-,-
+No. de Padres,Número de padres de familia que asisitieron a la visita,-,-
+Horas ,Horas invertidas por los padres de familia participantes en un visita (nœmero de padres* 2),-,-
